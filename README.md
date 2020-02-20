@@ -4,4 +4,4 @@ this repository is a public Repository that includes instructions, samples, snip
 
 ## Debugging Notes
 
-[Debugging Notes](#debugging/README.md)
+[Debugging Notes](debugging/README.md)

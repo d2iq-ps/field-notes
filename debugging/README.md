@@ -11,4 +11,4 @@ Use --kubeconfig flag with admin.conf created at konvoy up time and work with cl
 1. ```kubectl --kubeconfig admin.conf get pods -A -n kubeaddons | grep traefik```
 2. ```kubectl --kubeconfig admin.conf logs -n kubeaddons traefik-forward-auth-XXXXXX```
 
-## COnfig options
+## Config options
